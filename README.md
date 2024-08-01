@@ -1,7 +1,10 @@
 ## Overview
+You are working on an employee management software system. You've been asked to write a program that will output all of the employees in the system, organized according to their locations. For simplicity's sake, you can assume that the records for each employee are given in a comma-separated file, with an ID, name, city, and state (example below).
+
+## Instructions
 Please create a program that will read input (either locally or from github), parse it, and generate the appropriate output.
 
-Use any development environment you prefer, as well as whatever language you want.  This is an “open book” exercise and you are encouraged to use the Internet to look things up, though we ask that you not use any LLMs (  ChatGPT, Copilot, Gemini, etc).  Please share your desktop, so we can see both the code you are writing and anything you are researching online.
+Use any development environment you prefer, as well as whatever programming language you want.  This is an “open book” exercise and you are encouraged to use the Internet to look things up, though we ask that you not use any LLMs (ChatGPT, Copilot, Gemini, etc).  Please share your desktop, so we can see both the code you are writing and anything you are researching online.
 
 You should think of the interviewer as a partner in a pair programming situation or as a senior engineer/PM who knows the customer requirements. Definitely ask any clarifying questions, bounce ideas off, and share what you’re doing.
 
@@ -44,7 +47,8 @@ Beatrix Strong[354]
 Dorothy Cline[46235]
 Sean Williams[123]
 ```
-Note that Florida is the first state alphabetically (coming from line 5), and is thus the first line of output
 
-For the Oregon records, not that the cities are printed in alphabetical order, and then the names + ids are output.
+Note that Florida is the first state alphabetically (coming from line 5), and is thus the first line of output.
+
+For the Oregon records, note that the cities are printed in alphabetical order, and then the names + ids are output.
 
